@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="images/appLogo.png" width="250"/>
+</p>
+
+<h1 align="center">RTAC Points List Generator</h1>
+
+<p align="center">
+Automated Excel point-list generation for RTAC configurations
+</p>
+
+
 # Point List Generator
 
 Python tool for CAISO points list generation. 
