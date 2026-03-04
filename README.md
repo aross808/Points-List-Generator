@@ -1,4 +1,4 @@
-# RTAC Point List Generator
+# Point List Generator
 
 Python tool for CAISO points list generation. 
 
