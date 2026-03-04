@@ -1,6 +1,6 @@
 # RTAC Point List Generator
 
-A Python tool for generating SCADA/RTAC configuration spreadsheets from CAISO point exports.
+Python tool for CAISO points list generation. 
 
 This application reads analog and digital point lists (AI, AO, DI, DO) and automatically produces a formatted Excel workbook used for RTAC configuration and SCADA integration.
 
@@ -87,4 +87,4 @@ The program will produce a formatted workbook containing all RTAC configuration 
 
 ## License
 
-Internal engineering tool. Use as needed for RTAC / SCADA workflow automation.
+Internal engineering tool. Use as needed for RTAC workflow automation.
