@@ -8,7 +8,6 @@ The tool includes a PyQt GUI for selecting input files and generating the output
 
 ## Features
 
-* Automatic header detection for messy Excel exports
 * Supports Analog Inputs, Analog Outputs, Digital Inputs, and Digital Outputs
 * Automatic CAISO and Substation tag generation
 * Generates structured Excel workbook with:
